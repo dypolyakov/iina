@@ -1,3 +1,7 @@
 # IINA
  Поместить файл в 
-`/Users/username/Library/Application Support/com.colliderli.iina/input_conf/IINA DP.conf`
+`/Users/user/Library/Application Support/com.colliderli.iina/input_conf/IINA DP.conf`
+
+- Запустить приложение
+- Перейти в IINA - Настройки - Клавишы
+- Выбрать профиль `IINA DP`
